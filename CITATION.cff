@@ -12,5 +12,7 @@ authors:
     given-names: Ahmed A.
     affiliation: "University of Technology, Baghdad, Iraq"
 version: 1.0.0
+doi: 10.5281/zenodo.23729465
+repository-code: "https://github.com/mohamm3d-salih/prosthetic-leg-backstepping-tuning"
 date-released: 2026-10-28
 license: MIT
