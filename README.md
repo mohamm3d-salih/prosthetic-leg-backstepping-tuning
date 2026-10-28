@@ -2,9 +2,10 @@
 
 MATLAB code and results for the paper
 
-> M. Salih, S. K. Kadhim, A. A. Oglah, "Does the Metaheuristic Matter? Tuning the Gains of a
-> Backstepping Controller for a Belt-Driven Underactuated Prosthetic Leg on a Noisy Digital Loop"
-> (under review).
+> M. Salih, S. K. Kadhim, A. A. Oglah, "Metaheuristic Tuning of Backstepping Control for a
+> Belt-Driven Underactuated Prosthetic Leg" (under review).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23729465.svg)](https://doi.org/10.5281/zenodo.23729465)
 
 The leg has a thigh and a shank. A single motor on the pelvis drives the knee through a belt, so the
 hip is passive and the system has two degrees of freedom but only one input. A backstepping
@@ -80,7 +81,7 @@ All settings are in `src/p1_settings.m` and `lib/model/b2_settings.m`:
 ## Citation
 
 If you use this code, please cite the paper above (the full reference will be added after
-publication). See also `CITATION.cff`.
+publication) and the archived version of the code, https://doi.org/10.5281/zenodo.23729465. See also `CITATION.cff`.
 
 ## License
 
