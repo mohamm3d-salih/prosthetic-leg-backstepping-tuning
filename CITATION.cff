@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Backstepping gain tuning for a belt-driven underactuated prosthetic leg (MATLAB code and results)"
+authors:
+  - family-names: Salih
+    given-names: Mohammed
+    affiliation: "University of Technology, Baghdad, Iraq"
+  - family-names: Kadhim
+    given-names: Saleem Khalefa
+    affiliation: "University of Technology, Baghdad, Iraq"
+  - family-names: Oglah
+    given-names: Ahmed A.
+    affiliation: "University of Technology, Baghdad, Iraq"
+version: 1.0.0
+date-released: 2026-10-28
+license: MIT
